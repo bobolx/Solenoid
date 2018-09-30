@@ -1,0 +1,13 @@
+{
+    "name": "Solenoid",
+    "dependencies": {
+        "core": "*"
+    },
+    "description": "奥松机器人 电磁铁传感器",
+    "icon": "./Solenoid.jpg",
+    "license": "MIT",
+    "files": [
+        "main.ts"
+    ],
+    "public": true
+}
